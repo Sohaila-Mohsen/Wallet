@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258357133563",
+    "project_id": "wallet-f800f",
+    "storage_bucket": "wallet-f800f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258357133563:android:7c09df0807bb62932e305e",
+        "android_client_info": {
+          "package_name": "com.example.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258357133563-pco68bsd4d4dco62euovlgkmup815niq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRxAyCQn0kz7i6A5_rSNOEhJRrHsKcDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258357133563-pco68bsd4d4dco62euovlgkmup815niq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
